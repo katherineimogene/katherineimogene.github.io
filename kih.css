@@ -1,0 +1,13 @@
+ul {
+  padding-left: 0;
+}
+li:first-child {
+  padding-left: 0;
+}
+li {
+  display: inline;
+  padding-left: 5%;
+}
+h1.splash-head {
+  padding: 0;
+}
