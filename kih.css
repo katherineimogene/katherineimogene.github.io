@@ -13,7 +13,7 @@ h1.splash-head {
 }
 
 img.showcase{
-  margin-left: -10px;
+  margin-left: -11px;
   max-width: 410px;
 }
 
@@ -23,5 +23,10 @@ img.close-up{
 }
 
 .screamer-strip{
-
+  margin: -20px 0;
 }
+
+h2.screamer {
+  margin-top: 24px;
+}
+
