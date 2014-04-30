@@ -12,19 +12,19 @@ h1.splash-head {
   padding: 0;
 }
 
-img.showcase{
-  margin-left: -11px;
-  max-width: 410px;
-}
-
 img.close-up{
-  margin-left: -13px;
-  max-height: 190px;
+  margin-left: -10px;
+  max-width: 180px;
 }
 
 img.screenshot {
   max-width: 280px;
   margin-left: -10px;
+}
+
+img.showcase{
+  margin-left: -11px;
+  max-width: 370px;
 }
 
 .screamer-strip{
@@ -38,3 +38,52 @@ h2.shift-up-24 {
 .content-head {
   margin-bottom: 0;
 }
+
+.resume {
+  margin-bottom: 24px;
+}
+
+.screamer-text {
+  text-align: center;
+}
+
+p {
+    color: #7f8c8d;
+}
+
+a {
+    color: #2980b9;
+    font-size: .9em;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #e74c3c;
+}
+/*
+a:visited {
+  color: #2980b9;
+}
+*/
+.footer {
+    background: #16a085;
+    color: rgba(255, 255, 255, .8);
+}
+
+.ribbon {
+    background: #ecf0f1;
+    color: #aaa;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+p.calls {
+  padding-top: 27px;
+}
+
+h2.resume:hover {
+  color: #e74c3c;
+}
+
