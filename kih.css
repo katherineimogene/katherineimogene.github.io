@@ -11,3 +11,17 @@ li {
 h1.splash-head {
   padding: 0;
 }
+
+img.showcase{
+  margin-left: -10px;
+  max-width: 410px;
+}
+
+img.close-up{
+  margin-left: -13px;
+  max-height: 190px;
+}
+
+.screamer-strip{
+
+}
