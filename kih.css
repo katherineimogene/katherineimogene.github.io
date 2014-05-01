@@ -83,7 +83,10 @@ p.calls {
   padding-top: 27px;
 }
 
-h2.resume:hover {
+h2.resume:hover, h3.js:hover {
   color: #e74c3c;
 }
 
+h3.js {
+  font-size: 1.17em;
+}
